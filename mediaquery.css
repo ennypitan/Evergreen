@@ -201,7 +201,8 @@
     width: 100%;
   }
   .product-name {
-    margin-bottom: 2.1rem;
+    margin-bottom: 0.6rem;
+    border: 1px solid red;
   }
   .price {
     font-size: 17px;
