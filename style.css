@@ -862,18 +862,17 @@ footer {
 
 .footer-logo {
   width: 35%;
-  border: 1px solid red;
 }
 .footer-icons {
   display: flex;
   justify-content: flex-end;
   width: 50%;
-  border: 1px solid red;
 }
 .footer-icons i {
-  color: #d9ab82;
-  font-size: 32px;
-  padding-left: 10px;
+  color: white;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-right: 10px;
 }
 .footer-logo img {
   width: 30%;

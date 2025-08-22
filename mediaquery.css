@@ -45,7 +45,6 @@
     text-align: center;
     display: flex;
     justify-content: center;
-    border: 1px solid red;
   }
 
   .left-hero-card {
@@ -58,7 +57,6 @@
   .btn-secondary {
     margin-top: 1.1rem;
     width: 30%;
-    border: 1px solid red;
   }
 
   /* ********************* End of Hero Section************************************ */
@@ -119,7 +117,7 @@
   .resident-title {
     font-size: 35px;
     margin-top: 3rem;
-    border: 1px solid red;
+
     line-height: 30px;
     padding-bottom: 1.1rem;
   }
@@ -202,7 +200,6 @@
   }
   .product-name {
     margin-bottom: 0.6rem;
-    border: 1px solid red;
   }
   .price {
     font-size: 17px;
@@ -310,7 +307,7 @@
     width: 100%;
   }
   .footer-icons i {
-    color: #d9ab82;
+    color: white;
     font-size: 32px;
     padding-left: 0px;
     padding-right: 10px;
@@ -375,14 +372,14 @@
     font-style: normal;
     font-weight: 700;
     line-height: 4.75rem;
-    color: #d9ab82;
+    color: #2ea674;
   }
   .box-title {
     font-size: 1.5rem;
     font-style: normal;
     font-weight: 700;
     line-height: 2.1rem;
-    color: #d9ab82;
+    color: #2ea674;
   }
   .about-img {
     flex-direction: column;
@@ -442,7 +439,6 @@
     text-align: center;
     display: flex;
     justify-content: center;
-    border: 1px solid red;
   }
 
   .left-hero-card {
@@ -461,7 +457,6 @@
   .btn-secondary {
     margin-top: 1.1rem;
     width: 30%;
-    border: 1px solid red;
   }
   /* ********************* End of Hero Section************************************ */
   /* ********************* Sponsor Section************************************ */
@@ -527,7 +522,7 @@
   .resident-title {
     font-size: 75px;
     margin-top: 3rem;
-    border: 1px solid red;
+
     line-height: 60px;
     padding-bottom: 1.1rem;
   }
@@ -706,7 +701,7 @@
     width: 50%;
   }
   .footer-icons i {
-    color: #d9ab82;
+    color: white;
     font-size: 32px;
     padding-left: 0px;
     padding-right: 10px;
@@ -940,14 +935,11 @@
   .customer {
     margin: 1.5rem 0;
     padding: 1.5rem 0;
-    border: 1px solid red;
   }
   .customer-container {
     flex-direction: row;
-    border: 1px solid red;
   }
   .customer-image-card {
-    border: 1px solid red;
     width: 100%;
   }
   .slide {
@@ -959,7 +951,6 @@
   }
   .customer-text-card {
     width: 100%;
-    border: 1px solid red;
   }
   .customer-heading {
     font-size: 45px;
@@ -1032,7 +1023,7 @@
     width: 20%;
   }
   .footer-icons i {
-    color: #d9ab82;
+    color: white;
     font-size: 32px;
     padding-left: 0px;
     padding-right: 10px;
