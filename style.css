@@ -454,7 +454,6 @@ nav {
 .product {
   margin: 1rem 0;
   padding: 1rem 0;
-  border: 1px solid red;
 }
 .product .row:nth-child(3) {
   position: relative;
@@ -779,7 +778,6 @@ nav {
 .signup {
   margin: 1.1rem 0;
   padding: 1.1rem 0;
-  border: 1px solid red;
 }
 .signup-container {
   display: flex;
@@ -787,7 +785,6 @@ nav {
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
-  border: 1px solid red;
 }
 .left-signup-card {
   width: 60%;
@@ -850,7 +847,8 @@ nav {
 /* ********************* Footer  Section************************************ */
 footer {
   margin: 0;
-  padding: 0;
+  padding: 1rem 0;
+  background-color: #2ea674;
 }
 .footer-container {
   display: flex;
@@ -863,12 +861,14 @@ footer {
 }
 
 .footer-logo {
-  width: 25%;
+  width: 35%;
+  border: 1px solid red;
 }
 .footer-icons {
   display: flex;
   justify-content: flex-end;
-  width: 25%;
+  width: 50%;
+  border: 1px solid red;
 }
 .footer-icons i {
   color: #d9ab82;
